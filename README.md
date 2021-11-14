@@ -7,9 +7,9 @@ Source code of this project belongs to Alp Kural.
 
 Java Files of the Project	is listed as :
 
-SpacePongMain.java        Main class of the game (No command line argument)
+-SpacePongMain.java:   Main class of the game (No command line argument)
 
-SpacePongFrame.java	TopPanel.java	MiddlePanel.java	BottomPanel.java	StellarObject.java	StarObject.java	UfoShipObject.java	MeteoriteObject.java	MagicPot.java	
+-SpacePongFrame.java	-TopPanel.java	-MiddlePanel.java	-BottomPanel.java	-StellarObject.java	-StarObject.java	-UfoShipObject.java	-MeteoriteObject.java	-MagicPot.java	
 
 Feature:   Given in Project Manual   New Implementation
 
