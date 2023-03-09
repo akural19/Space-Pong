@@ -1,8 +1,6 @@
 # Space-Pong
 Java’s Swing API is used (which provides a graphical user interface for java programs) to implement a Space Pong game for Comp132 (Spring21) Term Project. 
 
-Copyright, all rights reserved. 
-
 Source code of this project belongs to Alp Kural, and the project is implemented for educational purposes at Koc University. 
 
 Java Files of the Project	is listed as :
